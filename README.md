@@ -7,16 +7,15 @@ The specific goals of the workshop were to address scientific needs, critical ga
 The workshop was held November 16 - 17, 2022 in a remote format.
 
 It was chaired by
-Simon J. L. Billinge, Professor of Materials Science and of Applied Physics and of Applied Mathematics, Columbia University
-John Mitchell, Senior Scientist, Materials Science Division, Argonne National Laboratory
-Susanne Stemmer, Professor of Materials, University of California, Santa Barbara
+ - Simon J. L. Billinge, Professor of Materials Science and of Applied Physics and of Applied Mathematics, Columbia University
+ - John Mitchell, Senior Scientist, Materials Science Division, Argonne National Laboratory
+ - Susanne Stemmer, Professor of Materials, University of California, Santa Barbara
 
 With an Advisory Committee constituited by
-
-Dmitri Basov, Professor of Physics, Columbia University
-David Goldhaber-Gordon, Professor of Physics, Stanford University
-Tyrel McQueen, Professor of Chemistry, Johns Hopkins University
-Daniel Lopez, Professor of Electrical Engineering and Computer Science, Penn State University
+ - Dmitri Basov, Professor of Physics, Columbia University
+ - David Goldhaber-Gordon, Professor of Physics, Stanford University
+ - Tyrel McQueen, Professor of Chemistry, Johns Hopkins University
+ - Daniel Lopez, Professor of Electrical Engineering and Computer Science, Penn State University
 
 It had 52 attendees and sought feedback from the broader community through an online questionnaire.  The report contains inputs from all the attendees as well as inputs from the broader questionnaire.
 
